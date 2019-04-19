@@ -162,5 +162,6 @@
     <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-annotations-api:8.5.32" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.4" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.16.22" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.1" level="project" />
   </component>
 </module>
